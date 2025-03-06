@@ -141,7 +141,7 @@ Métricas principales:
 - Distribución de asignaciones
 
 Ejemplo de visualización:
-![Resultados Comparativos](Comparación min_diff.png)
+![Resultados Comparativos](Comparación_min_diff.png)
 
 ## 🤝 Contribución
 1. Hacer fork del proyecto
